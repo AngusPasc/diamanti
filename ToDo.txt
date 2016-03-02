@@ -1,0 +1,7 @@
+
+TODO:
+ * configurações da conexão com o mongodb na tela do programa
+ * criar filtros para selecionar as chaves de acesso por cnpj e/ou mês/ano
+ * criar nova coluna na ListView para que ao clicar no botão deve visualizar o conteúdo do xml
+ * adicionar ao mongodb todos os xml de determinada pasta do computador -> retirar OpenDialog
+ * selecionar as chaves de acesso desejadas e baixar todas elas de uma só vez -> retirar SaveDialog
